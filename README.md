@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/pubudu_c_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pubudu_c_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pubudu-c-thanthrige-91a9a3165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pubudu-c-thanthrige-91a9a3165" height="30" width="40" /></a>
-<a href="https://fb.com/pubudu c thanthrige" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pubudu.chamara.5851" height="30" width="40" /></a>
+<a href="https://fb.com/pubudu.chamara.5851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pubudu.chamara.5851" height="30" width="40" /></a>
 <a href="https://instagram.com/i.am_pubudu_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am_pubudu_c" height="30" width="40" /></a>
 </p>
 
